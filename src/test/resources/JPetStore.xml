@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="JPetStore">
+	<listeners>
+		<listener class-name="listener.MyTestNGListener"></listener>
+		<listener class-name="listener.RetryListener"></listener>
+	</listeners>	
+	<test thread-count="1" name="VerifyHomePageTitle">
+		<parameter name="datafilpath"
+			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="runmode" value="Y" />
+		<parameter name="iteration" value="1" />
+		<parameter name="suitename" value="JPetStore" />
+		<classes>
+			<class name="testcases.HomePageTest">
+				<methods>
+					<include name="VerifyHomePageTitle" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<!--
+	<test thread-count="1" name="VerifySignInButtonPresence">
+		<parameter name="datafilpath"
+			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="runmode" value="Y" />
+		<parameter name="iteration" value="1" />
+		<parameter name="suitename" value="JPetStore" />
+		<classes>
+			<class name="testcases.StoreEntryTest">
+				<methods>
+					<include name="VerifySignInButtonPresence" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test thread-count="1" name="VerifyStoreEntryTitle">
+		<parameter name="datafilpath"
+			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="runmode" value="Y" />
+		<parameter name="iteration" value="1" />
+		<parameter name="suitename" value="JPetStore" />
+		<classes>
+			<class name="testcases.StoreEntryTest">
+				<methods>
+					<include name="VerifyStoreEntryTitle" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test thread-count="1" name="Verifylogin">
+		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="runmode" value="Y" />
+		<parameter name="iteration" value="1" />
+		<parameter name="suitename" value="JPetStore" />
+
+		<classes>
+			<class name="testcases.StoreEntryTest">
+				<methods>
+					<include name="Verifylogin" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+		
+	<test thread-count="1" name="verifyAvailablePets">
+		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="runmode" value="Y" />
+		<parameter name="iteration" value="1" />
+		<parameter name="suitename" value="JPetStore" />
+		<classes>
+			<class name="testcases.DashBoardTest">
+				<methods>
+					<include name="verifyAvailablePets" />
+				</methods>
+			</class>
+		</classes>
+	</test> 
+	-->
+	<test thread-count="1" name="verifyAllPets">
+		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="runmode" value="Y" />
+		<parameter name="iteration" value="1" />
+		<parameter name="suitename" value="JPetStore" />
+		<classes>
+			<class name="testcases.DashBoardTest">
+				<methods>
+					<include name="verifyAllPets" />
+				</methods>
+			</class>
+		</classes>
+	</test> 	
+</suite> 

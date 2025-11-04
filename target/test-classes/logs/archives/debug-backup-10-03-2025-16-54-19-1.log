@@ -1,0 +1,336 @@
+2025-10-03 16:21:38.761 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:21:38.769 DEBUG ApplicationKeywords:187 - Starting test VerifyHomePageTitle
+2025-10-03 16:21:38.839 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:21:38.876 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:21:39.760 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:21:41.772 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:21:42.090 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:21:42.090 DEBUG ApplicationKeywords:187 - Starting test VerifySignInButtonPresence
+2025-10-03 16:21:42.093 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:21:42.112 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:21:42.694 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:21:44.797 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:21:44.798 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:21:45.691 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:21:45.894 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:21:45.894 DEBUG ApplicationKeywords:187 - Starting test VerifyStoreEntryTitle
+2025-10-03 16:21:45.897 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:21:45.917 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:21:46.490 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:21:48.512 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:21:48.513 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:21:49.390 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:21:49.527 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:21:49.527 DEBUG ApplicationKeywords:187 - Starting test Verifylogin
+2025-10-03 16:21:49.529 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:21:49.543 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:21:50.097 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:21:52.094 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:21:52.095 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:21:54.985 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:21:54.985 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:21:55.325 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:21:55.325 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:21:55.373 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:21:55.374 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:21:55.415 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:21:55.415 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:21:55.479 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:21:55.479 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:21:55.542 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:21:55.542 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:21:57.604 DEBUG ApplicationKeywords:187 - Checking presence of SIGNOUT_LINK_xpath
+2025-10-03 16:21:57.811 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:21:57.812 DEBUG ApplicationKeywords:187 - Starting test verifyAvailablePets
+2025-10-03 16:21:57.814 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:21:57.828 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:21:58.422 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:22:00.382 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:22:00.383 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:22:03.231 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:22:03.232 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:22:03.575 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:22:03.575 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:22:03.620 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:22:03.620 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:22:03.659 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:22:03.659 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:22:03.711 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:22:03.711 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:22:03.758 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:22:03.759 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:22:05.820 DEBUG ApplicationKeywords:187 - Checking presence of DASHBOARD_CONTENT_id
+2025-10-03 16:22:06.023 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:22:06.023 DEBUG ApplicationKeywords:187 - Starting test verifyAllPets
+2025-10-03 16:22:06.028 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:22:06.039 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:22:06.640 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:22:08.633 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:22:08.634 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:22:11.522 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:22:11.523 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:22:11.862 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:22:11.862 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:22:11.908 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:22:11.908 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:22:11.947 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:22:11.948 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:22:12.004 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:22:12.004 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:22:12.050 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:22:12.051 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:22:14.781 DEBUG ApplicationKeywords:187 - Clicking on BIRDS_LOCATOR_xpath
+2025-10-03 16:22:14.781 DEBUG ApplicationKeywords:187 - Checking presence of BIRDS_LOCATOR_xpath
+2025-10-03 16:22:14.829 DEBUG ApplicationKeywords:187 - Checking presence of BIRDTABLE_LOCATOR_xpath
+2025-10-03 16:31:23.420 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:31:23.424 DEBUG ApplicationKeywords:187 - Starting test VerifyHomePageTitle
+2025-10-03 16:31:23.497 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:31:23.532 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:31:24.381 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:31:26.434 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:31:26.753 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:31:26.753 DEBUG ApplicationKeywords:187 - Starting test VerifySignInButtonPresence
+2025-10-03 16:31:26.756 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:31:26.775 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:31:27.343 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:31:29.395 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:31:29.396 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:31:30.283 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:31:30.490 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:31:30.490 DEBUG ApplicationKeywords:187 - Starting test VerifyStoreEntryTitle
+2025-10-03 16:31:30.493 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:31:30.513 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:31:31.078 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:31:33.083 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:31:33.084 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:31:33.974 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:31:34.126 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:31:34.127 DEBUG ApplicationKeywords:187 - Starting test Verifylogin
+2025-10-03 16:31:34.129 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:31:34.142 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:31:34.725 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:31:36.764 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:31:36.765 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:31:39.657 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:31:39.657 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:31:40.014 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:31:40.014 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:31:40.085 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:31:40.085 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:31:40.128 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:31:40.128 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:31:40.185 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:31:40.185 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:31:40.235 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:31:40.235 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:31:42.300 DEBUG ApplicationKeywords:187 - Checking presence of SIGNOUT_LINK_xpath
+2025-10-03 16:31:42.532 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:31:42.532 DEBUG ApplicationKeywords:187 - Starting test verifyAvailablePets
+2025-10-03 16:31:42.535 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:31:42.546 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:31:43.145 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:31:45.135 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:31:45.136 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:31:48.003 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:31:48.003 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:31:48.346 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:31:48.346 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:31:48.390 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:31:48.390 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:31:48.432 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:31:48.432 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:31:48.489 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:31:48.489 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:31:48.542 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:31:48.542 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:31:50.599 DEBUG ApplicationKeywords:187 - Checking presence of DASHBOARD_CONTENT_id
+2025-10-03 16:31:50.815 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:31:50.815 DEBUG ApplicationKeywords:187 - Starting test verifyAllPets
+2025-10-03 16:31:50.821 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:31:50.834 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:31:51.433 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:31:53.499 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:31:53.500 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:31:56.418 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:31:56.418 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:31:56.783 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:31:56.783 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:31:56.833 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:31:56.834 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:31:56.894 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:31:56.895 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:31:56.953 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:31:56.953 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:31:57.001 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:31:57.001 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:31:59.078 DEBUG ApplicationKeywords:187 - Clicking on BIRDS_LOCATOR_xpath
+2025-10-03 16:31:59.079 DEBUG ApplicationKeywords:187 - Checking presence of BIRDS_LOCATOR_xpath
+2025-10-03 16:31:59.127 DEBUG ApplicationKeywords:187 - Checking presence of BIRDTABLE_LOCATOR_xpath
+2025-10-03 16:43:25.870 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:43:25.872 DEBUG ApplicationKeywords:187 - Starting test VerifyHomePageTitle
+2025-10-03 16:43:25.943 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:43:25.980 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:43:26.812 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:43:28.810 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:43:29.123 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:43:29.123 DEBUG ApplicationKeywords:187 - Starting test VerifySignInButtonPresence
+2025-10-03 16:43:29.126 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:43:29.146 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:43:29.727 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:43:31.722 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:43:31.723 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:43:32.986 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:43:33.167 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:43:33.168 DEBUG ApplicationKeywords:187 - Starting test VerifyStoreEntryTitle
+2025-10-03 16:43:33.171 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:43:33.188 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:43:33.814 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:43:35.821 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:43:35.822 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:43:36.726 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:43:36.875 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:43:36.875 DEBUG ApplicationKeywords:187 - Starting test Verifylogin
+2025-10-03 16:43:36.878 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:43:36.894 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:43:37.501 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:43:39.556 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:43:39.557 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:43:42.457 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:43:42.457 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:43:42.798 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:43:42.799 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:43:42.856 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:43:42.856 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:43:42.894 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:43:42.895 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:43:42.952 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:43:42.953 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:43:43.005 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:43:43.005 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:43:45.061 DEBUG ApplicationKeywords:187 - Checking presence of SIGNOUT_LINK_xpath
+2025-10-03 16:43:45.282 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:43:45.283 DEBUG ApplicationKeywords:187 - Starting test verifyAvailablePets
+2025-10-03 16:43:45.286 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:43:45.297 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:43:45.857 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:43:47.860 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:43:47.860 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:43:50.748 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:43:50.749 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:43:51.117 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:43:51.117 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:43:51.163 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:43:51.163 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:43:51.202 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:43:51.203 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:43:51.257 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:43:51.257 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:43:51.339 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:43:51.339 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:43:54.062 DEBUG ApplicationKeywords:187 - Checking presence of DASHBOARD_CONTENT_id
+2025-10-03 16:43:54.247 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:43:54.247 DEBUG ApplicationKeywords:187 - Starting test verifyAllPets
+2025-10-03 16:43:54.256 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:43:54.268 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:43:54.823 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:43:56.860 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:43:56.861 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:43:59.755 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:43:59.755 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:44:00.107 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:44:00.107 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:44:00.148 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:44:00.148 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:44:00.187 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:44:00.188 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:44:00.239 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:44:00.240 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:44:00.289 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:44:00.289 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:44:02.344 DEBUG ApplicationKeywords:187 - Clicking on BIRDS_LOCATOR_xpath
+2025-10-03 16:44:02.345 DEBUG ApplicationKeywords:187 - Checking presence of BIRDS_LOCATOR_xpath
+2025-10-03 16:44:02.398 DEBUG ApplicationKeywords:187 - Checking presence of BIRDTABLE_LOCATOR_xpath
+2025-10-03 16:48:33.931 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:48:33.934 DEBUG ApplicationKeywords:187 - Starting test VerifyHomePageTitle
+2025-10-03 16:48:34.005 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:48:34.040 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:48:34.833 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:48:37.246 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:48:37.571 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:48:37.571 DEBUG ApplicationKeywords:187 - Starting test VerifySignInButtonPresence
+2025-10-03 16:48:37.574 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:48:37.593 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:48:38.143 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:48:40.200 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:48:40.201 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:48:41.063 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:48:41.242 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:48:41.243 DEBUG ApplicationKeywords:187 - Starting test VerifyStoreEntryTitle
+2025-10-03 16:48:41.246 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:48:41.262 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:48:41.849 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:48:43.869 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:48:43.871 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:48:44.748 DEBUG ApplicationKeywords:187 - Validating title
+2025-10-03 16:48:44.887 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:48:44.887 DEBUG ApplicationKeywords:187 - Starting test Verifylogin
+2025-10-03 16:48:44.891 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:48:44.903 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:48:45.454 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:48:47.444 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:48:47.445 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:48:50.353 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:48:50.354 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:48:50.709 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:48:50.709 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:48:50.767 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:48:50.767 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:48:50.808 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:48:50.808 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:48:50.865 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:48:50.866 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:48:50.930 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:48:50.931 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:48:54.037 DEBUG ApplicationKeywords:187 - Checking presence of SIGNOUT_LINK_xpath
+2025-10-03 16:48:54.230 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:48:54.231 DEBUG ApplicationKeywords:187 - Starting test verifyAvailablePets
+2025-10-03 16:48:54.234 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:48:54.246 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:48:54.790 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:48:56.774 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:48:56.774 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:49:00.254 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:49:00.255 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:49:00.712 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:49:00.712 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:49:00.777 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:49:00.777 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:49:00.815 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:49:00.815 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:49:00.871 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:49:00.871 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:49:00.918 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:49:00.918 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:49:02.975 DEBUG ApplicationKeywords:187 - Checking presence of DASHBOARD_CONTENT_id
+2025-10-03 16:49:03.162 INFO  ApplicationKeywords:36 - Configuration & Log configuration completed
+2025-10-03 16:49:03.162 DEBUG ApplicationKeywords:187 - Starting test verifyAllPets
+2025-10-03 16:49:03.167 DEBUG ApplicationKeywords:187 - Starting to create a portfolio
+2025-10-03 16:49:03.178 DEBUG ApplicationKeywords:187 - Opening The Browser chrome
+2025-10-03 16:49:03.779 DEBUG ApplicationKeywords:187 - Navigating to TEST_URL
+2025-10-03 16:49:05.787 DEBUG ApplicationKeywords:187 - Clicking on ENTER_STORE_LINK_xpath
+2025-10-03 16:49:05.787 DEBUG ApplicationKeywords:187 - Checking presence of ENTER_STORE_LINK_xpath
+2025-10-03 16:49:08.629 DEBUG ApplicationKeywords:187 - Clicking on SIGNIN_LINK_xpath
+2025-10-03 16:49:08.631 DEBUG ApplicationKeywords:187 - Checking presence of SIGNIN_LINK_xpath
+2025-10-03 16:49:08.990 DEBUG ApplicationKeywords:187 - Clearing text field USERNAME_INPUT_xpath
+2025-10-03 16:49:08.990 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:49:09.029 DEBUG ApplicationKeywords:187 - Typing in USERNAME_INPUT_xpath . Data j2ee
+2025-10-03 16:49:09.029 DEBUG ApplicationKeywords:187 - Checking presence of USERNAME_INPUT_xpath
+2025-10-03 16:49:09.067 DEBUG ApplicationKeywords:187 - Clearing text field PASSWORD_INPUT_xpath
+2025-10-03 16:49:09.068 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:49:09.121 DEBUG ApplicationKeywords:187 - Typing in PASSWORD_INPUT_xpath . Data j2ee
+2025-10-03 16:49:09.121 DEBUG ApplicationKeywords:187 - Checking presence of PASSWORD_INPUT_xpath
+2025-10-03 16:49:09.169 DEBUG ApplicationKeywords:187 - Clicking on LOGIN_BUTTON_xpath
+2025-10-03 16:49:09.169 DEBUG ApplicationKeywords:187 - Checking presence of LOGIN_BUTTON_xpath
+2025-10-03 16:49:11.229 DEBUG ApplicationKeywords:187 - Clicking on BIRDS_LOCATOR_xpath
+2025-10-03 16:49:11.231 DEBUG ApplicationKeywords:187 - Checking presence of BIRDS_LOCATOR_xpath
+2025-10-03 16:49:11.287 DEBUG ApplicationKeywords:187 - Checking presence of BIRDTABLE_LOCATOR_xpath
