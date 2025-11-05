@@ -7,7 +7,7 @@
 	</listeners>	
 	<test thread-count="1" name="VerifyHomePageTitle">
 		<parameter name="datafilpath"
-			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDriven_ExcelReader_Data_Framework\\src\\test\\resources\\data_Xls\\Data.xlsx" />
 		<parameter name="runmode" value="Y" />
 		<parameter name="iteration" value="1" />
 		<parameter name="suitename" value="JPetStore" />
@@ -19,10 +19,10 @@
 			</class>
 		</classes>
 	</test>
-	<!--
+	
 	<test thread-count="1" name="VerifySignInButtonPresence">
 		<parameter name="datafilpath"
-			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDriven_ExcelReader_Data_Framework\\src\\test\\resources\\data_Xls\\Data.xlsx" />
 		<parameter name="runmode" value="Y" />
 		<parameter name="iteration" value="1" />
 		<parameter name="suitename" value="JPetStore" />
@@ -36,7 +36,7 @@
 	</test>
 	<test thread-count="1" name="VerifyStoreEntryTitle">
 		<parameter name="datafilpath"
-			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+			value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDriven_ExcelReader_Data_Framework\\src\\test\\resources\\data_Xls\\Data.xlsx" />
 		<parameter name="runmode" value="Y" />
 		<parameter name="iteration" value="1" />
 		<parameter name="suitename" value="JPetStore" />
@@ -49,7 +49,7 @@
 		</classes>
 	</test>
 	<test thread-count="1" name="Verifylogin">
-		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDriven_ExcelReader_Data_Framework\\src\\test\\resources\\data_Xls\\Data.xlsx" />
 		<parameter name="runmode" value="Y" />
 		<parameter name="iteration" value="1" />
 		<parameter name="suitename" value="JPetStore" />
@@ -64,7 +64,7 @@
 	</test>
 		
 	<test thread-count="1" name="verifyAvailablePets">
-		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDriven_ExcelReader_Data_Framework\\src\\test\\resources\\data_Xls\\Data.xlsx" />
 		<parameter name="runmode" value="Y" />
 		<parameter name="iteration" value="1" />
 		<parameter name="suitename" value="JPetStore" />
@@ -76,9 +76,9 @@
 			</class>
 		</classes>
 	</test> 
-	-->
+	
 	<test thread-count="1" name="verifyAllPets">
-		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDrivenTestAutomation\\src\\test\\resources\\data_Xls\\Data.xlsx" />
+		<parameter name="datafilpath" value="C:\\Users\\MSI\\eclipse-workspace\\KeyWordDriven_ExcelReader_Data_Framework\\src\\test\\resources\\data_Xls\\Data.xlsx" />
 		<parameter name="runmode" value="Y" />
 		<parameter name="iteration" value="1" />
 		<parameter name="suitename" value="JPetStore" />

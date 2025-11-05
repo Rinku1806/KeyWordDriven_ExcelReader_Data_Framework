@@ -2,7 +2,7 @@
 <!DOCTYPE project [
 ]>
 
-<project name="KeyWordDrivenTestAutomation" default="usage" basedir="C:/Users/MSI/eclipse-workspace/KeyWordDrivenTestAutomation">  
+<project name="KeyWordDriven_ExcelReader_Data_Framework" default="usage" basedir=".">  
 
 <!-- ========== Initialize Properties =================================== -->
     <property environment="env"/>
@@ -12,7 +12,7 @@
     <property name="test.dest" value="${ws.home}\build"/>
     <property name="test.src" value="${ws.home}/src"/>
 	<property name="ng.result" value="target/surefire-reports/"/>
-	<property name="ws.run.location" value="C:\Users\MSI\eclipse-workspace\KeyWordDrivenTestAutomation\build\runner"/>
+	<property name="ws.run.location" value="${ws.home}/build/runner"/>
 	<property name="ws.run.location2" value="${ws.home}/src/test/resources"/>
     
     <!--target name="start-selenium-server">
